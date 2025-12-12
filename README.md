@@ -1,4 +1,4 @@
-# Deploy and monitor a cloud-based honeypot for Amazoomies Incorporated
+# Deploy and monitor a cloud-based honeypot
 
 This project involved the end-to-end design, deployment, and monitoring of a cloud-based honeypot system for "Amazoomies Incorporated," a small fictional business with limited security resources. The objective was to debunk the management's false sense of security by demonstrating real-world threat activity and gathering intelligence to harden their production network. Using the T-Pot suite on a Google Cloud virtual machine, the project successfully captured over 3 million attacks, providing critical data on attacker tactics, techniques, and procedures (TTPs).
 
